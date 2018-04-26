@@ -1,0 +1,32 @@
+body {
+    background-color: #1989ac;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#title {
+    color: #f9ce00;
+    text-align: center;
+}
+
+a {
+    color: #f9ce00;
+}
+a:hover {
+    color: #fdfdeb;
+}
+
+.column {
+    width: 48%;
+    float: left;
+    padding: 1%;
+}
+
+.number-style {
+    color:#ff5722;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.reference {
+    float: right;
+    font-style: italic;
+}
